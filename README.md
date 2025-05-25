@@ -8,7 +8,7 @@ Built with modern tools like **React**, **Shadcn UI**, **Supabase**, and **Clerk
 
 ## 🚀 Live Demo
 
-> 🔗 Coming soon / [Add your deployment link here]
+> 🔗 [https://hirrd-brown.vercel.app/]
 
 ---
 
