@@ -45,18 +45,5 @@ Built with modern tools like **React**, **Shadcn UI**, **Supabase**, and **Clerk
 
 ---
 
-## 📁 Project Structure
-
-hirrd/
-├── public/
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── hooks/ # Custom React hooks
-│ ├── pages/ # Route-based components
-│ ├── routes/ # App routing
-│ ├── services/ # Supabase/Clerk services
-│ └── utils/ # Utility functions
-├── .env # Environment variables
-└── vite.config.ts # Vite configuration
 
 
